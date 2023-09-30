@@ -1,2 +1,5 @@
 Hello this is first document for today CLI
 Please prefer this for docs
+
+This is new Second Branch Text
+Hello this is new texzt
